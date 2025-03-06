@@ -1,5 +1,5 @@
 {
-  "name": "Turn BBC News Articles into Podcasts using Hugging Face and Google Gemini",
+  "name": "BBCtoPodcast",
   "nodes": [
     {
       "parameters": {},

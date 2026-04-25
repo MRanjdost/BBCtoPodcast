@@ -43,10 +43,8 @@
 - `workflow.json`: فایل اصلی وورکفلو که شامل تمام نودها و تنظیمات است.
 - `README.md`: این فایل برای توضیحات و راهنمایی.
 - `credentials.example.json`: فایل نمونه برای تنظیمات API (کلیدهای واقعی رو خودتون وارد کنید).
-## لینک ریپازیتوری
-برای دسترسی به کد منبع و فایل‌های پروژه، به [https://github.com/[your-username]/BBDtoPodcast](https://github.com/[your-username]/BBDtoPodcast) سر بزنید.
 
-## لایسنس
+ لایسنس
 این پروژه تحت لایسنس [MIT](https://choosealicense.com/licenses/mit/) منتشر شده است. آزادانه ازش استفاده کنید، تغییر بدید و به اشتراک بذارید!
 
 ## تشکر
